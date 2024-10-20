@@ -12,6 +12,11 @@
         "username": null
       }
     ],
-    "usernameHasSymbols": []
+    "usernameHasSymbols": [
+      {
+        "id": null,
+        "username": "1213415615156415"
+      }
+    ]
   }
 }
