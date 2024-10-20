@@ -1,0 +1,11 @@
+{
+  "bannedPlayers": {
+    "idOnly": [
+      {
+        "id": "",
+        "username": null
+      }
+    ],
+    "usernameHasSymbols": []
+  }
+}
