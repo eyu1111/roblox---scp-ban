@@ -1,20 +1,10 @@
 {
   "bannedPlayers": {
-    "idOnly": [
-      {
-        "id": "5653866645",
-        "username": null
-      },
-      {
-        "id": "123456",
-        "username": "yukjm2"
-      }
+    "numericIds": [
+      "5653866645"
     ],
-    "usernameHasSymbols": [
-      {
-        "id": null,
-        "username": "yukjm2"
-      }
+    "nonNumericUsernames": [
+      "yukjm2"
     ]
   }
 }
