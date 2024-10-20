@@ -4,6 +4,10 @@
       {
         "id": "1234567890",
         "username": "new_player"
+      },
+      {
+        "id": "123456",
+        "username": "yukjm2"
       }
     ],
     "usernameHasSymbols": []
