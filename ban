@@ -5,6 +5,13 @@
     ],
     "nonNumericUsernames": [
       "yukjm2"
-    ]
+    ],
+    "idOnly": [
+      {
+        "id": "12346",
+        "username": null
+      }
+    ],
+    "usernameHasSymbols": []
   }
 }
