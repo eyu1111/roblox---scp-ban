@@ -1,1 +1,11 @@
-Updated content of the file
+{
+  "bannedPlayers": {
+    "idOnly": [
+      {
+        "id": "",
+        "username": null
+      }
+    ],
+    "usernameHasSymbols": []
+  }
+}
