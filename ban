@@ -1,11 +1,6 @@
 {
   "bannedPlayers": {
     "idOnly": [],
-    "usernameHasSymbols": [
-      {
-        "id": null,
-        "username": "yukjm2"
-      }
-    ]
+    "usernameHasSymbols": []
   }
 }
